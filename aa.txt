@@ -1,7 +1,7 @@
 NultyParametr local_run.bat 
 PrnviParametr  
 Local date is [2019-03-02 20:17:22.105] 
- Volume in drive C has no label.
+ Volume in drive C has no label. ... hehe
  Volume Serial Number is 74AD-2F1E
 
  Directory of C:\_git\GIT_JENKINS
