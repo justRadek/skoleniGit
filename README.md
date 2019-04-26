@@ -1,3 +1,2 @@
 readme file for gitSkoleni project
-
-ooefkemvkfooeppd
+feel free to fork
