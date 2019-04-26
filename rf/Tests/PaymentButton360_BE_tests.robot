@@ -20,6 +20,7 @@ Suite Teardown    Show access token
 *** Variables ***
 ${SOAPUI_PATH}=  C:\\Program Files (x86)\\SmartBear\\SoapUI-5.4.0\\bin\\testrunner.bat
 ${ENDPOINT}=  http://st2-cic-wbl.vs.csin.cz:5001
+teewewewew
 
 
 *** Test Cases ***
